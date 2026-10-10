@@ -1,0 +1,38 @@
+]633;E;echo "PRACTICAL WORK: Linux Environment";79faa395-1f68-46d5-89aa-4411737d0e93]633;CPRACTICAL WORK: Linux Environment
+Date:
+Sat Oct 10 14:52:06 UTC 2026
+
+=== Operating System ===
+PRETTY_NAME="Ubuntu 24.04.5 LTS"
+NAME="Ubuntu"
+VERSION_ID="24.04"
+VERSION="24.04.5 LTS (Noble Numbat)"
+VERSION_CODENAME=noble
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=noble
+LOGO=ubuntu-logo
+
+=== Hostname ===
+codespaces-0a7b8b
+
+=== Disk Space ===
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          32G   11G   19G  37% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/root        29G   16G   13G  56% /vscode
+/dev/loop4       32G   11G   19G  37% /workspaces
+/dev/sdb1        44G  3.0G   39G   8% /tmp
+
+=== Memory ===
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       2.1Gi       266Mi        64Mi       5.7Gi       5.6Gi
+Swap:             0B          0B          0B
+
+=== Current User ===
+codespace
